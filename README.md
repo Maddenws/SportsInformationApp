@@ -18,5 +18,4 @@ Fetches news on sports teams from many different Pro Sports teams and later to i
 
 * Polling system that can also show projected betting odds and if possible finding previous player on player matchups stats (Could be hard to find information that specific).
 
-* 
 
